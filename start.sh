@@ -44,6 +44,7 @@ yanzheng(){
   # 开始CloudFlare测速
   ./CloudflareST -tp 80 -dn 100 -url http://cf.581019.xyz/1000MB.test
 
+
 }
 
 
