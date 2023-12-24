@@ -9,7 +9,7 @@
 * 使用`crontab`进行定时任务的添加
 
 ## 注意
-> 项目使用CloudflareSt(https://github.com/XIU2/CloudflareSpeedTest) 进行测速选择，默认dn `20`，url详见CloudflareST的issue。  
+> 项目使用[CloudflareSt](https://github.com/XIU2/CloudflareSpeedTest) 进行测速选择，默认dn `20`，url详见CloudflareST的issue。  
 > 项目消息推送采用wecom推送，使用前请先进行企业注册，了解corpid,secert,agentid,userid...  
 > 建议不要长时间进行扫ip操作，个人周一、三、五、七进行扫描。  
 
